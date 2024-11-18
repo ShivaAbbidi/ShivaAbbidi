@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning pymongo
 - 💞️ I’m looking to collaborate on developing
 - 📫 How to reach me u2733483@uel.ac.uk
-- 😄 Pronouns: Achieve    
+- 😄 Pronouns:    
 - ⚡ Fun fact: Git doesn't allow all developers to view shared code in one location.
 
 <!---
